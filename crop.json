@@ -1,0 +1,1171 @@
+{
+    "crops": [
+      {
+        "name": "Maize (Corn)",
+        "diseases": [
+          "Corn Smut",
+          "Gray Leaf Spot",
+          "Northern Corn Leaf Blight"
+        ],
+        "benefits": [
+          "Rich in carbohydrates",
+          "High in fiber",
+          "Provides antioxidants"
+        ],
+        "source": "Central America",
+        "environments": [
+          "Warm climates",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for mycotoxin contamination",
+            "Digestive issues if consumed in excess"
+          ],
+          "effects": [
+            "Overconsumption can lead to weight gain",
+            "Mycotoxin contamination can be harmful"
+          ],
+          "benefits": [
+            "Rich in carbohydrates",
+            "High in fiber",
+            "Provides antioxidants"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive problems if overfed",
+            "Risk of mycotoxin contamination"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Mycotoxins can be harmful"
+          ],
+          "benefits": [
+            "Provides energy",
+            "Good source of fiber"
+          ]
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "diseases": [
+          "Tomato Blight",
+          "Fusarium Wilt",
+          "Tomato Mosaic Virus"
+        ],
+        "benefits": [
+          "Rich in vitamins A and C",
+          "Contains lycopene",
+          "Good for heart health"
+        ],
+        "source": "South America",
+        "environments": [
+          "Warm climates",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for nightshade sensitivity",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive issues",
+            "Nightshade sensitivity can cause inflammation"
+          ],
+          "benefits": [
+            "Rich in vitamins A and C",
+            "Contains lycopene",
+            "Supports heart health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential toxicity if consumed in excess"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Tomato foliage can be toxic"
+          ],
+          "benefits": [
+            "Provides vitamins and antioxidants"
+          ]
+        }
+      },
+      {
+        "name": "Bananas",
+        "diseases": [
+          "Panama Disease",
+          "Black Sigatoka",
+          "Banana Bunchy Top Virus"
+        ],
+        "benefits": [
+          "Rich in potassium",
+          "Provides quick energy",
+          "Supports digestive health"
+        ],
+        "source": "Southeast Asia",
+        "environments": [
+          "Tropical climates",
+          "Well-drained soils",
+          "High humidity"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to weight gain",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in potassium",
+            "Provides quick energy",
+            "Supports digestive health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive issues if overfed"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal problems"
+          ],
+          "benefits": [
+            "Provides energy and essential nutrients"
+          ]
+        }
+      },
+      {
+        "name": "Apples",
+        "diseases": [
+          "Apple Scab",
+          "Fire Blight",
+          "Powdery Mildew"
+        ],
+        "benefits": [
+          "Rich in dietary fiber",
+          "Good source of vitamin C",
+          "Supports heart health"
+        ],
+        "source": "Central Asia",
+        "environments": [
+          "Temperate regions",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can cause digestive issues",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in dietary fiber",
+            "Provides vitamin C",
+            "Supports heart health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive issues if overfed",
+            "Potential for choking hazard if fed in large pieces"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Choking hazard with large pieces"
+          ],
+          "benefits": [
+            "Provides vitamins and fiber"
+          ]
+        }
+      },
+      {
+        "name": "Grapes",
+        "diseases": [
+          "Downy Mildew",
+          "Powdery Mildew",
+          "Botrytis Bunch Rot"
+        ],
+        "benefits": [
+          "Rich in antioxidants",
+          "Good for heart health",
+          "High in vitamins C and K"
+        ],
+        "source": "Near East",
+        "environments": [
+          "Temperate and Mediterranean regions",
+          "Well-drained soils",
+          "Dry climates"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive issues",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in antioxidants",
+            "Good for heart health",
+            "High in vitamins C and K"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Potential toxicity if overfed"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Grapes can be toxic to some animals like dogs"
+          ],
+          "benefits": [
+            "Provides antioxidants"
+          ]
+        }
+      },
+      {
+        "name": "Oranges",
+        "diseases": [
+          "Citrus Canker",
+          "Citrus Greening",
+          "Citrus Black Spot"
+        ],
+        "benefits": [
+          "High in vitamin C",
+          "Rich in fiber",
+          "Good for immune system"
+        ],
+        "source": "Southeast Asia",
+        "environments": [
+          "Tropical and subtropical climates",
+          "Well-drained soils",
+          "Warm temperatures"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive issues",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "High in vitamin C",
+            "Rich in fiber",
+            "Supports immune system"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive issues if overfed",
+            "Potential for citrus sensitivity"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal problems",
+            "Citrus sensitivity can cause digestive issues"
+          ],
+          "benefits": [
+            "Provides vitamins and fiber"
+          ]
+        }
+      },
+      {
+        "name": "Peanuts",
+        "diseases": [
+          "Peanut Leaf Spot",
+          "Sclerotinia Blight",
+          "Peanut Rust"
+        ],
+        "benefits": [
+          "High in protein",
+          "Rich in healthy fats",
+          "Good for heart health"
+        ],
+        "source": "South America",
+        "environments": [
+          "Tropical and subtropical regions",
+          "Well-drained sandy soils",
+          "Warm climates"
+        ],
+        "human": {
+          "diseases": [
+            "Allergic reactions",
+            "Potential for aflatoxin contamination"
+          ],
+          "effects": [
+            "Overconsumption can lead to weight gain",
+            "Aflatoxin contamination can be harmful"
+          ],
+          "benefits": [
+            "High in protein",
+            "Rich in healthy fats",
+            "Good for heart health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive issues if overfed",
+            "Potential for aflatoxin contamination"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Aflatoxin contamination can be harmful"
+          ],
+          "benefits": [
+            "Provides protein and healthy fats"
+          ]
+        }
+      },
+      {
+        "name": "Sugarcane",
+        "diseases": [
+          "Sugarcane Rust",
+          "Red Rot",
+          "Leaf Scald"
+        ],
+        "benefits": [
+          "Rich in natural sugars",
+          "Provides quick energy",
+          "Supports digestive health"
+        ],
+        "source": "Southeast Asia",
+        "environments": [
+          "Tropical and subtropical climates",
+          "Well-drained soils",
+          "High rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for high sugar intake related health issues",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to weight gain and blood sugar spikes",
+            "Excessive sugar intake can impact overall health"
+          ],
+          "benefits": [
+            "Rich in natural sugars",
+            "Provides quick energy",
+            "Supports digestive health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential for sugar toxicity"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "High sugar content can be harmful in excess"
+          ],
+          "benefits": [
+            "Provides energy"
+          ]
+        }
+      },
+      {
+        "name": "Cotton",
+        "diseases": [
+          "Bacterial Blight",
+          "Verticillium Wilt",
+          "Cotton Root Rot"
+        ],
+        "benefits": [
+          "Used in textile production",
+          "Provides cottonseed oil",
+          "Used in animal feed"
+        ],
+        "source": "South Asia",
+        "environments": [
+          "Warm climates",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for skin irritation from contact with cotton fibers"
+          ],
+          "effects": [
+            "Overexposure to cotton dust can cause respiratory issues"
+          ],
+          "benefits": [
+            "Used in textiles",
+            "Provides cottonseed oil"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive issues if consumed in large quantities",
+            "Potential for cottonseed toxicity"
+          ],
+          "effects": [
+            "Overconsumption can cause gastrointestinal issues",
+            "Cottonseed toxicity can be harmful"
+          ],
+          "benefits": [
+            "Used in animal feed",
+            "Provides some nutritional value"
+          ]
+        }
+      },
+      {
+        "name": "Coffee",
+        "diseases": [
+          "Coffee Leaf Rust",
+          "Coffee Berry Disease",
+          "Root-knot Nematodes"
+        ],
+        "benefits": [
+          "Rich in antioxidants",
+          "Boosts energy",
+          "Supports brain function"
+        ],
+        "source": "Ethiopia",
+        "environments": [
+          "Tropical highlands",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for caffeine-related health issues",
+            "Digestive problems if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to insomnia, anxiety, and digestive issues",
+            "Caffeine sensitivity varies"
+          ],
+          "benefits": [
+            "Rich in antioxidants",
+            "Boosts energy",
+            "Supports brain function"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Potential toxicity if consumed"
+          ],
+          "effects": [
+            "Caffeine can be toxic to animals, causing symptoms like restlessness, rapid heartbeat"
+          ],
+          "benefits": [
+            "None; coffee should be avoided for animals"
+          ]
+        }
+      },
+      {
+        "name": "Cocoa",
+        "diseases": [
+          "Black Pod Disease",
+          "Frosty Pod Rot",
+          "Cacao Swollen Shoot Virus"
+        ],
+        "benefits": [
+          "Source of cocoa and chocolate",
+          "Rich in antioxidants",
+          "Boosts mood"
+        ],
+        "source": "South America",
+        "environments": [
+          "Tropical climates",
+          "Well-drained soils",
+          "High humidity"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for caffeine-related health issues",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive issues",
+            "Caffeine sensitivity can vary"
+          ],
+          "benefits": [
+            "Rich in antioxidants",
+            "Boosts mood",
+            "Source of cocoa and chocolate"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Potential toxicity if consumed"
+          ],
+          "effects": [
+            "Cocoa can be toxic to animals, causing symptoms like vomiting, diarrhea"
+          ],
+          "benefits": [
+            "None; cocoa should be avoided for animals"
+          ]
+        }
+      },
+      {
+        "name": "Barley",
+        "diseases": [
+          "Barley Yellow Dwarf Virus",
+          "Powdery Mildew",
+          "Net Blotch"
+        ],
+        "benefits": [
+          "Rich in fiber",
+          "Supports digestive health",
+          "Good source of vitamins and minerals"
+        ],
+        "source": "Western Asia",
+        "environments": [
+          "Temperate regions",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for gluten intolerance or celiac disease",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive issues",
+            "Gluten intolerance or celiac disease can occur"
+          ],
+          "benefits": [
+            "Rich in fiber",
+            "Supports digestive health",
+            "Provides essential vitamins and minerals"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential for aflatoxin contamination"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Aflatoxin contamination can be harmful"
+          ],
+          "benefits": [
+            "Provides fiber and nutrients"
+          ]
+        }
+      },
+      {
+        "name": "Oats",
+        "diseases": [
+          "Crown Rust",
+          "Leaf Blotch",
+          "Powdery Mildew"
+        ],
+        "benefits": [
+          "Rich in fiber",
+          "Good for heart health",
+          "Supports digestive health"
+        ],
+        "source": "Near East",
+        "environments": [
+          "Temperate climates",
+          "Well-drained soils",
+          "Cool temperatures"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for gluten intolerance or celiac disease",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive issues",
+            "Gluten intolerance or celiac disease can occur"
+          ],
+          "benefits": [
+            "Rich in fiber",
+            "Supports heart health",
+            "Good for digestion"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential for aflatoxin contamination"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Aflatoxin contamination can be harmful"
+          ],
+          "benefits": [
+            "Provides fiber and energy"
+          ]
+        }
+      },
+      {
+        "name": "Chickpeas",
+        "diseases": [
+          "Ascochyta Blight",
+          "Fusarium Wilt",
+          "Root Rot"
+        ],
+        "benefits": [
+          "High in protein",
+          "Rich in fiber",
+          "Good for heart health"
+        ],
+        "source": "Middle East",
+        "environments": [
+          "Semi-arid regions",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive issues",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "High in protein",
+            "Rich in fiber",
+            "Good for heart health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive issues if overfed",
+            "Potential nutrient imbalance"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Nutrient imbalance can affect growth"
+          ],
+          "benefits": [
+            "Provides protein and fiber"
+          ]
+        }
+      },
+      {
+        "name": "Lentils",
+        "diseases": [
+          "Fusarium Wilt",
+          "Rust",
+          "Root Rot"
+        ],
+        "benefits": [
+          "Rich in protein",
+          "High in fiber",
+          "Good for heart health"
+        ],
+        "source": "Mediterranean region",
+        "environments": [
+          "Semi-arid regions",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Digestive issues if overconsumed",
+            "Potential for allergic reactions"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in protein",
+            "High in fiber",
+            "Supports heart health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive issues if overfed",
+            "Potential nutrient imbalance"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Nutrient imbalance can affect health"
+          ],
+          "benefits": [
+            "Provides protein and fiber"
+          ]
+        }
+      },
+      {
+        "name": "Peas",
+        "diseases": [
+          "Powdery Mildew",
+          "Pea Root Rot",
+          "Pea Enation Mosaic Virus"
+        ],
+        "benefits": [
+          "High in protein",
+          "Rich in vitamins A, C, and K",
+          "Supports immune health"
+        ],
+        "source": "Mediterranean region",
+        "environments": [
+          "Temperate climates",
+          "Well-drained soils",
+          "Cool temperatures"
+        ],
+        "human": {
+          "diseases": [
+            "Digestive issues if overconsumed",
+            "Potential for allergic reactions"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "High in protein",
+            "Rich in vitamins A, C, and K",
+            "Supports immune health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive issues if overfed",
+            "Potential nutrient imbalance"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Nutrient imbalance can affect health"
+          ],
+          "benefits": [
+            "Provides protein and vitamins"
+          ]
+        }
+      },
+      {
+        "name": "Carrots",
+        "diseases": [
+          "Alternaria Leaf Blight",
+          "Powdery Mildew",
+          "Carrot Rust Fly"
+        ],
+        "benefits": [
+          "Rich in beta-carotene",
+          "Good for eye health",
+          "Supports immune health"
+        ],
+        "source": "Persia",
+        "environments": [
+          "Cool climates",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive issues",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in beta-carotene",
+            "Good for eye health",
+            "Supports immune health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential nutrient imbalance"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Nutrient imbalance can affect health"
+          ],
+          "benefits": [
+            "Provides vitamins and minerals"
+          ]
+        }
+      },
+      {
+        "name": "Onions",
+        "diseases": [
+          "Downy Mildew",
+          "Onion Smut",
+          "Purple Blotch"
+        ],
+        "benefits": [
+          "Rich in antioxidants",
+          "Good for heart health",
+          "Supports immune system"
+        ],
+        "source": "Central Asia",
+        "environments": [
+          "Temperate climates",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for digestive issues if overconsumed",
+            "Possible allergic reactions"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in antioxidants",
+            "Good for heart health",
+            "Supports immune system"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential toxicity"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Toxicity can affect health"
+          ],
+          "benefits": [
+            "None; onions should be avoided for animals"
+          ]
+        }
+      },
+      {
+        "name": "Garlic",
+        "diseases": [
+          "Garlic Rust",
+          "White Rot",
+          "Garlic Bloat Nematode"
+        ],
+        "benefits": [
+          "Rich in antioxidants",
+          "Supports immune health",
+          "Good for heart health"
+        ],
+        "source": "Central Asia",
+        "environments": [
+          "Temperate climates",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for digestive issues if overconsumed",
+            "Possible allergic reactions"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in antioxidants",
+            "Supports immune health",
+            "Good for heart health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential toxicity"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Toxicity can affect health"
+          ],
+          "benefits": [
+            "None; garlic should be avoided for animals"
+          ]
+        }
+      },
+      {
+        "name": "Pineapple",
+        "diseases": [
+          "Heart Rot",
+          "Phytophthora Root Rot",
+          "Pineapple Mealybug Wilt"
+        ],
+        "benefits": [
+          "Rich in vitamin C",
+          "Supports digestion",
+          "Anti-inflammatory properties"
+        ],
+        "source": "South America",
+        "environments": [
+          "Tropical climates",
+          "Well-drained soils",
+          "High humidity"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in vitamin C",
+            "Supports digestion",
+            "Anti-inflammatory properties"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential for pineapple sensitivity"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Pineapple sensitivity can affect digestion"
+          ],
+          "benefits": [
+            "Provides some nutritional value"
+          ]
+        }
+      },
+      {
+        "name": "Cucumber",
+        "diseases": [
+          "Powdery Mildew",
+          "Downy Mildew",
+          "Cucumber Mosaic Virus"
+        ],
+        "benefits": [
+          "Hydrating",
+          "Rich in antioxidants",
+          "Supports digestive health"
+        ],
+        "source": "South Asia",
+        "environments": [
+          "Tropical and subtropical regions",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Hydrating",
+            "Rich in antioxidants",
+            "Supports digestive health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential for cucumber sensitivity"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Cucumber sensitivity can affect digestion"
+          ],
+          "benefits": [
+            "Provides hydration and some nutrients"
+          ]
+        }
+      },
+      {
+        "name": "Cabbage",
+        "diseases": [
+          "Black Rot",
+          "Downy Mildew",
+          "Clubroot"
+        ],
+        "benefits": [
+          "Rich in vitamin C",
+          "Good for heart health",
+          "Supports digestive health"
+        ],
+        "source": "Europe",
+        "environments": [
+          "Cool climates",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for digestive issues if overconsumed",
+            "Possible allergic reactions"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in vitamin C",
+            "Good for heart health",
+            "Supports digestive health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential for nutrient imbalance"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Nutrient imbalance can affect health"
+          ],
+          "benefits": [
+            "Provides vitamins and fiber"
+          ]
+        }
+      },
+      {
+        "name": "Spinach",
+        "diseases": [
+          "Downy Mildew",
+          "White Rust",
+          "Leaf Spot"
+        ],
+        "benefits": [
+          "Rich in iron",
+          "Good for bone health",
+          "Supports immune health"
+        ],
+        "source": "Persia",
+        "environments": [
+          "Temperate regions",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for digestive issues if overconsumed",
+            "Possible allergic reactions"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in iron",
+            "Good for bone health",
+            "Supports immune health"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential for nutrient imbalance"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Nutrient imbalance can affect health"
+          ],
+          "benefits": [
+            "Provides vitamins and minerals"
+          ]
+        }
+      },
+      {
+        "name": "Strawberries",
+        "diseases": [
+          "Gray Mold",
+          "Powdery Mildew",
+          "Verticillium Wilt"
+        ],
+        "benefits": [
+          "Rich in vitamin C",
+          "Good for heart health",
+          "Anti-inflammatory properties"
+        ],
+        "source": "Temperate regions",
+        "environments": [
+          "Temperate climates",
+          "Well-drained soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Potential for allergic reactions",
+            "Digestive issues if overconsumed"
+          ],
+          "effects": [
+            "Overconsumption can lead to digestive discomfort",
+            "Allergic reactions are rare but possible"
+          ],
+          "benefits": [
+            "Rich in vitamin C",
+            "Good for heart health",
+            "Anti-inflammatory properties"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Digestive upset if overfed",
+            "Potential for strawberry sensitivity"
+          ],
+          "effects": [
+            "Overfeeding can cause gastrointestinal issues",
+            "Strawberry sensitivity can affect digestion"
+          ],
+          "benefits": [
+            "Provides some nutritional value"
+          ]
+        }
+      },
+      {
+        "name": "Carrots",
+        "diseases": [
+          "Alternaria Leaf Blight",
+          "Powdery Mildew",
+          "Carrot Rust Fly"
+        ],
+        "benefits": [
+          "Rich in beta-carotene",
+          "Good source of vitamin A",
+          "Supports eye health"
+        ],
+        "source": "Iran and Afghanistan",
+        "environments": [
+          "Cool to temperate climates",
+          "Well-drained sandy soils",
+          "Moderate rainfall"
+        ],
+        "human": {
+          "diseases": [
+            "Overconsumption may lead to carotenemia",
+            "Digestive issues from overeating"
+          ],
+          "effects": [
+            "Excessive intake can turn skin slightly orange",
+            "Overeating can lead to digestive discomfort"
+          ],
+          "benefits": [
+            "Rich in beta-carotene for eye health",
+            "Supports immune function"
+          ]
+        },
+        "animal": {
+          "diseases": [
+            "Overfeeding can cause digestive upset",
+            "Potential contamination by pesticides"
+          ],
+          "effects": [
+            "Too many carrots can cause digestive issues",
+            "Pesticide exposure can be harmful to livestock"
+          ],
+          "benefits": [
+            "Provides vitamins and nutrients",
+            "Good for animal vision and overall health"
+          ]
+        }
+      }
+    ]
+  }
